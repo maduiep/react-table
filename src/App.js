@@ -1,11 +1,11 @@
 import React from 'react'
-import Table from './components/BasicTable';
+import BasicTable from './components/BasicTable';
 
 
 function App() {
   return (
     <div className="App">
-      <Table />
+      <BasicTable />
     </div>
   );
 }

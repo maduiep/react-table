@@ -16,12 +16,12 @@ export const COLUMNS = [
 
     {
         Header: 'Date of Birth',
-        accessor: 'date_of_birth'
+        accessor: 'dtae_of_birth'
     },
 
     {
         Header: 'Country',
-        accessor: 'country'
+        accessor: 'county'
     },
 
     {
